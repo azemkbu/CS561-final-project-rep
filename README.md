@@ -48,7 +48,6 @@ The final report focuses on TPC-H Q1, TPC-H Q6, and one custom Q6-style query.
 │   ├── average_timings.csv
 │   └── average_timings.md
 └── docs/
-    ├── experiment_summary.md
     └── run_on_server.md
 ```
 
